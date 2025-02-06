@@ -11,8 +11,6 @@ const booleanArray = [true, false, true, false];
 const anyArray = ["text", 42, true, { key: "value" }];
 
 
-
-
 stringArray.forEach(item => console.log(item.toUpperCase()));
 
 

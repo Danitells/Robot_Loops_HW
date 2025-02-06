@@ -8,5 +8,5 @@ function bigStepLoop() {
         console.log(i);
     }
 }
-smallStepLoop()
-bigStepLoop()
+smallStepLoop();
+bigStepLoop();
